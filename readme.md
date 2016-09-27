@@ -1,7 +1,6 @@
 这是一个github客户端，用react-native搭建，仅做学习使用。
 
 ## screenshot
-![screen](screen/2.png)
 ![screen](screen/1.png)
 
 ## 问题
